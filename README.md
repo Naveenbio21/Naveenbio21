@@ -13,6 +13,7 @@ I am a passionate Biomedical Engineer and IoMT Developer dedicated to bridging m
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/naveenbio21)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=google-chrome)](https://naveenbio21.github.io/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:Naveenchandrasekar21@gmail.com)
+[![Resume](https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobe-acrobat-reader)](https://docs.google.com/document/d/1vHZXNgMk9AxlUVX7JW9VvBAYXcw7qQZR/edit?usp=sharing&ouid=112395309346942228476&rtpof=true&sd=true)
 
 ## 🛠 Tech Stack & Skills
 ### Programming & Embedded
