@@ -2,7 +2,7 @@
 
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3776AB&width=435&lines=Biomedical+Engineer;IoMT+Developer;AI+Innovator+focused+on+MedTech" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3776AB&width=435&lines=Biomedical+Engineer;Medical+Devices+Embedded+AI;IoMT+Developer;AI+Innovator+focused+on+MedTech" alt="Typing Animation" />
 </p>
 
 ## 👨‍💻 About Me
