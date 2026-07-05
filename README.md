@@ -39,7 +39,7 @@ I am a passionate Biomedical Engineer and IoMT Developer dedicated to bridging m
 
 ## 🏆 Achievements & Certifications
 *   **Awards**: Best Hardware Innovation (Leeway 24hrs Hackathon 2025); Top 5 Hybrid Innovation (SREC, Coimbatore).
-*   **Certifications**: AI Tool Specialist (Infosys), Embedded Systems (University of Colorado), ISO 13485:2016, and NPTEL Medical Image Processing.
+*   **Certifications**: Google Prompting Essentials Specialization (Google Career Certificates), AI in Healthcare ( Stanford University), Master Medical Device Regulatory Affairs ( Udemy ), and Biomedical Instrumentation ( NPTEL ).
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenbio21&show_icons=true&theme=radical)
